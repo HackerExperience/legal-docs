@@ -1,6 +1,6 @@
 Thank you for your interest in contributing to open source software projects managed by Neoart Labs, LLC (“Neoart Labs”, "We" or "Us").
 
- In order to clarify the intellectual property license granted with Contributions from any person, We must have a Contributor License Agreement (“Agreement”) agreed to by each Contributor. This license is for your protection as a Contributor as well as the protection of Neoart Labs; it does not change your rights to use your own Contributions for any other purpose.
+In order to clarify the intellectual property license granted with Contributions from any person, We must have a Contributor License Agreement (“Agreement”) agreed to by each Contributor. This license is for your protection as a Contributor as well as the protection of Neoart Labs; it does not change your rights to use your own Contributions for any other purpose.
 
 You accept and agree to the following terms and conditions for Your present and future Contributions Submitted to Us. Except for the license granted herein to Us and recipients of software distributed by Us, You reserve all right, title, and interest in and to Your Contributions.
 
@@ -18,7 +18,7 @@ You accept and agree to the following terms and conditions for Your present and 
 
 “Submission Date” means the date on which You Submitted a Contribution to Us.
 
- "Effective Date" means the date You execute this Agreement or the date You first Submit a Contribution to Us, whichever is earlier.
+"Effective Date" means the date You execute this Agreement or the date You first Submit a Contribution to Us, whichever is earlier.
 
 # 2. Grant of Rights
 
@@ -56,7 +56,7 @@ You confirm that:
 
 (b) You own the Copyright and patent claims covering the Contribution which are required to grant the rights under Section 2. 
 
-(c)  The grant of rights under Section 2 does not violate any grant of rights which You have made to third parties, including Your employer. If Your employer(s) has rights to intellectual property that You create, such as your Contributions, You represent that (i) You have received express written permission to make Contributions on behalf of that employer in accordance with the terms of this Agreement, (ii) that Your employer has expressly and unambiguously waived such rights for Your Contributions to Us in writing, or (iii) that Your employer has executed a separate Corporate Agreement with Us.
+(c) The grant of rights under Section 2 does not violate any grant of rights which You have made to third parties, including Your employer. If Your employer(s) has rights to intellectual property that You create, such as your Contributions, You represent that (i) You have received express written permission to make Contributions on behalf of that employer in accordance with the terms of this Agreement, (ii) that Your employer has expressly and unambiguously waived such rights for Your Contributions to Us in writing, or (iii) that Your employer has executed a separate Corporate Agreement with Us.
 
 (d) You will notify Us of any facts or circumstances of which You become aware that would make Your grants inaccurate in any respect.
 
@@ -71,8 +71,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL YOU BE LIABL
 # 6 Miscellaneous
 
 ## 6.1 Governing Law
-This Agreement will be governed by and construed in accordance with the laws of California excluding its conflicts of law provisions. Under certain circumstances, the
-governing law in this section might be superseded by the United Nations Convention on Contracts for the International Sale of Goods (“UN Convention”) and the parties intend to avoid the application of the UN Convention to this Agreement and, thus, exclude the application of the UN Convention in its entirety to this  agreement.
+This Agreement will be governed by and construed in accordance with the laws of California excluding its conflicts of law provisions. Under certain circumstances, the governing law in this section might be superseded by the United Nations Convention on Contracts for the International Sale of Goods (“UN Convention”) and the parties intend to avoid the application of the UN Convention to this Agreement and, thus, exclude the application of the UN Convention in its entirety to this agreement.
 
 ## 6.2 Entire Agreement
 This Agreement sets out the entire agreement between You and Us for Your Contributions to Us and overrides all other agreements or understandings.
@@ -81,7 +80,7 @@ This Agreement sets out the entire agreement between You and Us for Your Contrib
 If You or We assign the rights or obligations received through this Agreement to a third party, as a condition of the assignment, that third party must agree in writing to abide by all the rights and obligations in the Agreement.
 
 ## 6.4 Waiver of Performance
-The failure of either party to require performance by the other party of any provision of this Agreement in one situation shall not affect the right of a party to require such performance at any time in the future. A waiver of performance under a provision in one situation shall not be considered a waiver of the performance of the provision in the future or a waiver of the provision in its entirety
+The failure of either party to require performance by the other party of any provision of this Agreement in one situation shall not affect the right of a party to require such performance at any time in the future. A waiver of performance under a provision in one situation shall not be considered a waiver of the performance of the provision in the future or a waiver of the provision in its entirety.
 
 ## 6.5 Severability
 If any provision of this Agreement is found void and unenforceable, such provision will be replaced to the extent possible with a provision that comes closest to the meaning of the original provision and which is enforceable. The terms and conditions set forth in this Agreement shall apply notwithstanding any failure of essential purpose of this Agreement or any limited remedy to the maximum extent
