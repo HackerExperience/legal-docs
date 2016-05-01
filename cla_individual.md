@@ -6,7 +6,7 @@ You accept and agree to the following terms and conditions for Your present and 
 
 # 1. Definitions.
 
-"You" (or "Your") shall mean the copyright owner or legal entity authorized by the copyright owner that is making this Agreement with Us. For legal entities, the entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+“You” means the individual who Submits a Contribution to Us.
 
 "Contribution" shall mean any original work of authorship, including any modifications or additions to an existing work, that is intentionally submitted by You to Us, in which You own or assert ownership of the Copyright, for inclusion in, or documentation of, any of the products owned or managed by Neoart Labs (the "Work"). 
 
@@ -52,7 +52,7 @@ Any rights not expressly licensed under this section are expressly reserved by Y
 
 You confirm that:
 
-(a) You have the legal authority to enter into this Agreement.  If You are less than eighteen years old, please have Your parents or guardian sign the Agreement.
+(a) You have the legal authority to enter into this Agreement. If You are less than eighteen years old, please have Your parents or guardian sign the Agreement.
 
 (b) You own the Copyright and patent claims covering the Contribution which are required to grant the rights under Section 2. 
 
